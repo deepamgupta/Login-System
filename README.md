@@ -4,7 +4,8 @@ A simple login system in using php and mysql in html
 While learning backend, I started with php, (FACEBOOK is on php)...
 I came through some of the functions of php which can provide functionality to interact with mysql database(the procedural way).
 
-For example : 1. mysqli_connect(DB_SERVER, DB_USERNAME, DB_PASSWORD, DB_NAME)
+For example :
+              1. mysqli_connect(DB_SERVER, DB_USERNAME, DB_PASSWORD, DB_NAME)
               2. mysqli_prepare($link, $sql)
               3. mysqli_stmt_execute($stmt)
               4. mysqli_stmt_store_result($stmt)
